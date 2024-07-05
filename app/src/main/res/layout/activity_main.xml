@@ -47,7 +47,7 @@
 
             <EditText
                 android:id="@+id/txtCorreo"
-                android:layout_width="265dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="125px"
                 android:background="#939FA5"
@@ -78,7 +78,7 @@
 
             <EditText
                 android:id="@+id/txtPassw"
-                android:layout_width="264dp"
+                android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="20px"
                 android:background="#929EA4"
