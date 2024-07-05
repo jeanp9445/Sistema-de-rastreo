@@ -25,7 +25,7 @@
         android:id="@+id/button3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="5dp"
+        android:layout_marginBottom="-30dp"
         android:text="Crear cuenta"
         android:textSize="24dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -36,7 +36,7 @@
     <LinearLayout
         android:id="@+id/linearLayout"
         android:layout_width="346dp"
-        android:layout_height="480dp"
+        android:layout_height="520dp"
         android:layout_marginTop="20dp"
         android:background="#42485E"
         android:orientation="vertical"
